@@ -4,11 +4,11 @@
     3.SpringMVC
     4.MyBatis
     5.Maven
-    
-===
+   
 ##Spring 
     1.Spring 开发环境搭建配置
     2.Spring 应用实战
+    
 ##SpringMVC
     1.SpringMVC 例子
         1.1 配置web.xml
@@ -25,14 +25,9 @@
     5.数据验证
     
 ##Spring 操作数据库
-     lot of things to do 
-    
-    
-    
+     lot of things to do  
 ##MyBatis 
     lot of things to do too
-    
-    
 ##Maven
      lot of things to do too
     
