@@ -1,4 +1,4 @@
-#This folder contains the following knowledge
+# This folder contains the following knowledge
 
 
 ## JSP
@@ -37,14 +37,14 @@
     1.留言板
     2.JSP+JavaBean 与 JSP+JavaBean+servlet 差异
     
-##JDBC
+## JDBC
     1.数据库操作
     2.JDBC 技术
     3.JDBC API
     4.JDBC 通过JSP+Servlet
     
-##Socket&IO &线程
-*使用过程中学习
+## Socket&IO &线程
+ *使用过程中学习
         
 
 
