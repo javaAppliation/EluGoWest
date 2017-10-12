@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb619dd2-5b41-42d5-9d98-4405cdf83678" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javaWebBase/servletConfig/.idea/workspace.xml" afterPath="$PROJECT_DIR$/javaWebBase/servletConfig/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javaWebBase/servletConfig/out/artifacts/servletConfig_war_exploded/index.jsp" afterPath="$PROJECT_DIR$/javaWebBase/servletConfig/out/artifacts/servletConfig_war_exploded/index.jsp" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,8 +25,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -53,9 +51,9 @@
         <option value="$PROJECT_DIR$/javaWebBase/outline.md" />
         <option value="$PROJECT_DIR$/SpringBase/Springstudy.md" />
         <option value="$PROJECT_DIR$/SpringBase/README.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/javaWebBase/JSP/index.jsp" />
         <option value="$PROJECT_DIR$/javaWebBase/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -99,11 +97,6 @@
               <item name="EluGoWest" type="b2602c69:ProjectViewProjectNode" />
               <item name="EluGoWest" type="462c0819:PsiDirectoryNode" />
               <item name="javaWebBase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EluGoWest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EluGoWest" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringBase" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -237,12 +230,12 @@
       <workItem from="1507384965144" duration="100000" />
       <workItem from="1507476145680" duration="207000" />
       <workItem from="1507539122153" duration="18000" />
-      <workItem from="1507797350783" duration="12000" />
+      <workItem from="1507797350783" duration="132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11028000" />
+    <option name="totallyTimeSpent" value="11148000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -266,7 +259,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3478261" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3470375" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28969958" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -488,8 +481,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor />

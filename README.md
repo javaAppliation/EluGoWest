@@ -5,5 +5,5 @@
     3.application for study
         1.微信端程序 练习，先小程序（点餐项目）
 
-![] (https://github.com/javaAppliation/EluGoWest/target.png)
+![](https://github.com/javaAppliation/EluGoWest/blob/master/target.png)
     
